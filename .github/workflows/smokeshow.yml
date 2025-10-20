@@ -2,8 +2,10 @@ name: Smokeshow
 
 on:
   workflow_run:
-    workflows: [Test]
-    types: [completed]
+    workflows:
+      - Test
+    types:
+      - completed
 
 permissions:
   statuses: write
@@ -31,9 +33,9 @@ jobs:
           version: "0.4.15"
           enable-cache: true
           cache-dependency-glob: |
-            requirements**.txt
             pyproject.toml
-      - run: uv pip install -r requirements-github-actions.txt
+            uv.lock
+      - run: uv sync
       - uses: actions/download-artifact@v5
         with:
           name: coverage-html
