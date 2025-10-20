@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: annotated-doc
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Sebastián
+    family-names: Ramírez
+    email: tiangolo@gmail.com
+identifiers:
+repository-code: 'https://github.com/fastapi/annotated-doc'
+url: 'https://github.com/fastapi/annotated-doc'
+abstract: >-
+  Document parameters, class attributes, return types, and variables inline, with Annotated.
+keywords:
+  - annotated
+  - documentation
+  - fastapi
+  - typer
+  - sqlmodel
+  - asyncer
+license: MIT
