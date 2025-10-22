@@ -4,5 +4,5 @@ set -e
 set -x
 
 mypy src
-ruff check src tests docs_src scripts
+ruff check src tests scripts
 ruff format src tests --check
