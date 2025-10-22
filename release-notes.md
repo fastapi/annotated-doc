@@ -4,6 +4,7 @@
 
 ### Docs
 
+* 📝 Update README with use cases. PR [#9](https://github.com/fastapi/annotated-doc/pull/9) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Add badges to docs. PR [#8](https://github.com/fastapi/annotated-doc/pull/8) by [@tiangolo](https://github.com/tiangolo).
 
 ## 0.0.2
