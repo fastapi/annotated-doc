@@ -58,7 +58,8 @@ junit_family = "xunit2"
 parallel = true
 data_file = "coverage/.coverage"
 source = [
-    "src",
+    "src/annotated_doc",
+    "tests",
 ]
 context = '${CONTEXT}'
 dynamic_context = "test_function"
