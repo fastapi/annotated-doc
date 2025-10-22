@@ -33,9 +33,9 @@ jobs:
           version: "0.4.15"
           enable-cache: true
           cache-dependency-glob: |
+            requirements**.txt
             pyproject.toml
-            uv.lock
-      - run: uv sync
+      - run: uv pip install -r requirements-tests.txt
       - uses: actions/download-artifact@v5
         with:
           name: coverage-html

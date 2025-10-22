@@ -90,12 +90,3 @@ ignore = [
 [tool.ruff.lint.pyupgrade]
 # Preserve types, even if a file imports `from __future__ import annotations`.
 keep-runtime-typing = true
-
-[dependency-groups]
-dev = [
-    "coverage>=7.6.1",
-    "mypy>=1.14.1",
-    "pytest>=8.3.5",
-    "ruff>=0.14.1",
-    "smokeshow>=0.5.0",
-]
