@@ -32,19 +32,19 @@ jobs:
       - name: Decompress source distribution
         run: |
           cd dist
-          tar xvf annotated-doc*.tar.gz
+          tar xvf annotated_doc*.tar.gz
       - name: Install test dependencies
         run: |
-          cd dist/annotated-doc*/
+          cd dist/annotated_doc*/
           pip install -r requirements-tests.txt
       - name: Run source distribution tests
         run: |
-          cd dist/annotated-doc*/
+          cd dist/annotated_doc*/
           bash scripts/test.sh
       - name: Build wheel distribution
         run: |
           cd dist
-          pip wheel --no-deps annotated-doc*.tar.gz
+          pip wheel --no-deps annotated_doc*.tar.gz
 
   # https://github.com/marketplace/actions/alls-green#why
   test-redistribute-alls-green:  # This job does nothing and is only used for the branch protection
