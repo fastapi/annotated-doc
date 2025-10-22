@@ -2,6 +2,12 @@
 
 ## Latest Changes
 
+## 0.0.2
+
+### Features
+
+* ✨ Add implementation.
+
 ### Internal
 
 * ✅ Migrate/add tests. PR [#7](https://github.com/fastapi/annotated-doc/pull/7) by [@tiangolo](https://github.com/tiangolo).
