@@ -58,10 +58,12 @@ junit_family = "xunit2"
 parallel = true
 data_file = "coverage/.coverage"
 source = [
-    "src",
+    "src/annotated_doc",
+    "tests",
 ]
 context = '${CONTEXT}'
 dynamic_context = "test_function"
+relative_files = true
 
 [tool.coverage.report]
 show_missing = true
@@ -91,10 +93,9 @@ ignore = [
 # Preserve types, even if a file imports `from __future__ import annotations`.
 keep-runtime-typing = true
 
-[dependency-groups]
-dev = [
-    "coverage>=7.6.1",
-    "mypy>=1.14.1",
-    "pytest>=8.3.5",
-    "ruff>=0.14.1",
+[tool.uv.build-backend]
+source-include = [
+    "tests/**",
+    "requirements*.txt",
+    "scripts/**",
 ]
