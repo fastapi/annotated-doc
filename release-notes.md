@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Docs
+
+* 📝 Add badges to docs. PR [#8](https://github.com/fastapi/annotated-doc/pull/8) by [@tiangolo](https://github.com/tiangolo).
+
 ## 0.0.2
 
 ### Features
