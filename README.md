@@ -54,6 +54,8 @@ class User:
     age: Annotated[int, Doc("The user's age")]
 ```
 
+The same way, you could document return types and variables, or anything that could have a type annotation with `Annotated`.
+
 ## Who Uses This
 
 This was made for:
@@ -98,7 +100,7 @@ I ([@tiangolo](https://github.com/tiangolo)) originally wanted for this to be pa
 
 The conclusion was that this was better done as an external effort, in a third-party library.
 
-So, here it is, with a simpler approach, as a third-party library, in a way that can be used by others, starting with FastAPI and friends, and its users.
+So, here it is, with a simpler approach, as a third-party library, in a way that can be used by others, starting with FastAPI and friends.
 
 ## License
 
