@@ -63,6 +63,7 @@ source = [
 ]
 context = '${CONTEXT}'
 dynamic_context = "test_function"
+relative_files = true
 
 [tool.coverage.report]
 show_missing = true
