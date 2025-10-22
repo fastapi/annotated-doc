@@ -20,6 +20,7 @@ class Doc:
         print(f"Hi, {name}!")
     ```
     """
+
     def __init__(self, documentation: str, /) -> None:
         self.documentation = documentation
 
