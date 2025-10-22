@@ -16,7 +16,7 @@ def test_doc_basic() -> None:
 
 
 def test_annotation():
-    def hi(name: Annotated[str, Doc("Who to say hi to")]) -> None:
+    def hi(name: Annotated[str, Doc("Who to say hi to")]) -> None:  # pragma: no cover
         pass
 
     hints = get_type_hints(hi, include_extras=True)
