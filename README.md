@@ -2,6 +2,19 @@
 
 Document parameters, class attributes, return types, and variables inline, with `Annotated`.
 
+<a href="https://github.com/fastapi/annotated-doc/actions?query=workflow%3ATest+event%3Apush+branch%3Amain" target="_blank">
+    <img src="https://github.com/fastapi/annotated-doc/actions/workflows/test.yml/badge.svg?event=push&branch=main" alt="Test">
+</a>
+<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/annotated-doc" target="_blank">
+    <img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/annotated-doc.svg" alt="Coverage">
+</a>
+<a href="https://pypi.org/project/annotated-doc" target="_blank">
+    <img src="https://img.shields.io/pypi/v/annotated-doc?color=%2334D058&label=pypi%20package" alt="Package version">
+</a>
+<a href="https://pypi.org/project/annotated-doc" target="_blank">
+    <img src="https://img.shields.io/pypi/pyversions/annotated-doc.svg?color=%2334D058" alt="Supported Python versions">
+</a>
+
 ## Installation
 
 ```bash
