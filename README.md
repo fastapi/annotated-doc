@@ -58,12 +58,14 @@ The same way, you could document return types and variables, or anything that co
 
 ## Who Uses This
 
-This was made for:
+`annotated-doc` was made for:
 
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Typer](https://typer.tiangolo.com/)
 * [SQLModel](https://sqlmodel.tiangolo.com/)
 * [Asyncer](https://asyncer.tiangolo.com/)
+
+`annotated-doc` is supported by [griffe-typingdoc](https://github.com/mkdocstrings/griffe-typingdoc), which powers reference documentation like the one in the [FastAPI Reference](https://fastapi.tiangolo.com/reference/).
 
 ## Reasons not to use `annotated-doc`
 
