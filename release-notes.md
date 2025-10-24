@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+## 0.0.3
+
 ### Docs
 
 * 📝 Add mention to `griffe-typingdoc`. PR [#10](https://github.com/fastapi/annotated-doc/pull/10) by [@tiangolo](https://github.com/tiangolo).
