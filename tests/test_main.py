@@ -1,6 +1,10 @@
 import pickle
 
-from typing_extensions import Annotated, get_type_hints
+try:
+    from typing import Annotated, get_type_hints
+except ImportError:
+    # Python < 3.9
+    from typing_extensions import Annotated, get_type_hints
 
 from annotated_doc import Doc
 
