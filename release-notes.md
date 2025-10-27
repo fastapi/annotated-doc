@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Internal
+
+* ⬆ Bump actions/download-artifact from 5 to 6. PR [#13](https://github.com/fastapi/annotated-doc/pull/13) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 ## 0.0.3
 
 ### Docs
