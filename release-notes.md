@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Upgrades
+
+* ⬆ Bump ruff from 0.14.1 to 0.14.3. PR [#17](https://github.com/fastapi/annotated-doc/pull/17) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 ### Internal
 
 * ⬆ Bump actions/upload-artifact from 4 to 5. PR [#14](https://github.com/fastapi/annotated-doc/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
