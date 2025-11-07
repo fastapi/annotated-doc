@@ -1,5 +1,4 @@
-from importlib.metadata import version
-
+from .version import VERSION
 from .main import Doc as Doc
 
-__version__ = version("annotated-doc")
+__version__ = VERSION
