@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Fixes
+
+* 👷 Switch to dynamic versioning with `pdm` build system. PR [#19](https://github.com/fastapi/annotated-doc/pull/19) by [@svlandeg](https://github.com/svlandeg).
+
 ### Upgrades
 
 * ⬆ Bump ruff from 0.14.1 to 0.14.3. PR [#17](https://github.com/fastapi/annotated-doc/pull/17) by [@dependabot[bot]](https://github.com/apps/dependabot).
