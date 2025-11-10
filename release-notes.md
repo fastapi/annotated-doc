@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+## 0.0.4
+
 ### Fixes
 
 * 👷 Switch to dynamic versioning with `pdm` build system. PR [#19](https://github.com/fastapi/annotated-doc/pull/19) by [@svlandeg](https://github.com/svlandeg).
