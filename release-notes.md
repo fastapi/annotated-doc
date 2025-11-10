@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ➕ Add `typing-extensions` to test requirements for Python < 3.9. PR [#12](https://github.com/fastapi/annotated-doc/pull/12) by [@musicinmybrain](https://github.com/musicinmybrain).
 * ⬆ Bump actions/upload-artifact from 4 to 5. PR [#14](https://github.com/fastapi/annotated-doc/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 5 to 6. PR [#13](https://github.com/fastapi/annotated-doc/pull/13) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
