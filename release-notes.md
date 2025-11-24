@@ -4,6 +4,7 @@
 
 ### Internal
 
+* ⬆ Bump actions/checkout from 5 to 6. PR [#20](https://github.com/fastapi/annotated-doc/pull/20) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#21](https://github.com/fastapi/annotated-doc/pull/21) by [@svlandeg](https://github.com/svlandeg).
 
 ## 0.0.4
