@@ -9,9 +9,6 @@ on:
       - opened
       - synchronize
 
-env:
-  UV_SYSTEM_PYTHON: 1
-
 jobs:
   test-redistribute:
     runs-on: ubuntu-latest
@@ -24,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.10"
+          python-version-file: ".python-version"
       - name: Install build dependencies
         run: pip install build
       - name: Build source distribution
@@ -36,7 +33,7 @@ jobs:
       - name: Install test dependencies
         run: |
           cd dist/annotated_doc*/
-          pip install -r requirements-tests.txt
+          pip install --group tests .
       - name: Run source distribution tests
         run: |
           cd dist/annotated_doc*/
