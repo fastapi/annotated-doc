@@ -40,6 +40,16 @@ Repository = "https://github.com/fastapi/annotated-doc"
 Issues = "https://github.com/fastapi/annotated-doc/issues"
 Changelog = "https://github.com/fastapi/annotated-doc/release-notes.md"
 
+[dependency-groups]
+dev = [
+    "coverage[toml]>=7.6.1",
+    "mypy==1.14.1",
+    "pytest>=8.3.5",
+    "ruff==0.14.3",
+    "smokeshow>=0.5.0",
+    "typing-extensions>=4.13.2 ; python_full_version < '3.9'",
+]
+
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
@@ -101,6 +111,5 @@ distribution = true
 [tool.pdm.build]
 source-includes = [
     "tests/",
-    "requirements*.txt",
     "scripts/",
-    ]
+]
