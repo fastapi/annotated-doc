@@ -104,3 +104,8 @@ source-includes = [
     "requirements*.txt",
     "scripts/",
     ]
+
+[dependency-groups]
+dev = [
+    "prek==0.2.24",
+]
