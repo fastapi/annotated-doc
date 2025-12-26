@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 👷 Add pre-commit workflow. PR [#28](https://github.com/fastapi/annotated-doc/pull/28) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump actions/upload-artifact from 5 to 6. PR [#24](https://github.com/fastapi/annotated-doc/pull/24) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 6 to 7. PR [#23](https://github.com/fastapi/annotated-doc/pull/23) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Configure coverage, error on main tests, don't wait for Smokeshow. PR [#26](https://github.com/fastapi/annotated-doc/pull/26) by [@YuriiMotov](https://github.com/YuriiMotov).
