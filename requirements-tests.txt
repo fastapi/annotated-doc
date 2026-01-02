@@ -1,8 +1,0 @@
--e .
-
-pytest >=8.3.5
-typing-extensions; python_version < "3.9"
-coverage[toml] >=7.6.1
-mypy ==1.14.1
-ruff ==0.14.10
-smokeshow >=0.5.0
