@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Upgrades
+
+* ⬆ Bump ruff from 0.14.3 to 0.14.10. PR [#31](https://github.com/fastapi/annotated-doc/pull/31) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 ### Internal
 
 * ⬆ Bump actions/checkout from 5 to 6. PR [#29](https://github.com/fastapi/annotated-doc/pull/29) by [@dependabot[bot]](https://github.com/apps/dependabot).
