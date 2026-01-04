@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆️  Migrate to uv. PR [#27](https://github.com/fastapi/annotated-doc/pull/27) by [@DoctorJohn](https://github.com/DoctorJohn).
 * ⬆ Bump actions/checkout from 5 to 6. PR [#29](https://github.com/fastapi/annotated-doc/pull/29) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add pre-commit workflow. PR [#28](https://github.com/fastapi/annotated-doc/pull/28) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump actions/upload-artifact from 5 to 6. PR [#24](https://github.com/fastapi/annotated-doc/pull/24) by [@dependabot[bot]](https://github.com/apps/dependabot).
