@@ -8,6 +8,7 @@
 
 ### Internal
 
+* 🔧 Ensure that an edit to `uv.lock` gets the `internal` label. PR [#32](https://github.com/fastapi/annotated-doc/pull/32) by [@svlandeg](https://github.com/svlandeg).
 * ⬆️  Migrate to uv. PR [#27](https://github.com/fastapi/annotated-doc/pull/27) by [@DoctorJohn](https://github.com/DoctorJohn).
 * ⬆ Bump actions/checkout from 5 to 6. PR [#29](https://github.com/fastapi/annotated-doc/pull/29) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add pre-commit workflow. PR [#28](https://github.com/fastapi/annotated-doc/pull/28) by [@YuriiMotov](https://github.com/YuriiMotov).
