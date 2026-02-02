@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump ruff from 0.14.3 to 0.14.14. PR [#33](https://github.com/fastapi/annotated-doc/pull/33) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump prek from 0.2.25 to 0.3.1. PR [#34](https://github.com/fastapi/annotated-doc/pull/34) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔧 Ensure that an edit to `uv.lock` gets the `internal` label. PR [#32](https://github.com/fastapi/annotated-doc/pull/32) by [@svlandeg](https://github.com/svlandeg).
 * ⬆️  Migrate to uv. PR [#27](https://github.com/fastapi/annotated-doc/pull/27) by [@DoctorJohn](https://github.com/DoctorJohn).
