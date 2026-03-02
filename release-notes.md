@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump actions/download-artifact from 7 to 8. PR [#39](https://github.com/fastapi/annotated-doc/pull/39) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.14.14 to 0.15.4. PR [#41](https://github.com/fastapi/annotated-doc/pull/41) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump prek from 0.3.1 to 0.3.4. PR [#42](https://github.com/fastapi/annotated-doc/pull/42) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Run tests with lower bound uv sync. PR [#37](https://github.com/fastapi/annotated-doc/pull/37) by [@YuriiMotov](https://github.com/YuriiMotov).
