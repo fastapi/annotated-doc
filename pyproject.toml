@@ -8,7 +8,7 @@ readme = "README.md"
 authors = [
     { name = "Sebastián Ramírez", email = "tiangolo@gmail.com" }
 ]
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Intended Audience :: Information Technology",
     "Intended Audience :: System Administrators",
@@ -24,7 +24,6 @@ classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     "Programming Language :: Python :: 3 :: Only",
-    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
@@ -51,7 +50,6 @@ tests = [
     "pytest>=8.3.5",
     "ruff==0.14.14",
     "smokeshow>=0.5.0",
-    "typing-extensions>=4.13.2 ; python_full_version < '3.9'",
 ]
 
 [build-system]

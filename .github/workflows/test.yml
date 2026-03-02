@@ -34,9 +34,6 @@ jobs:
         uv-resolution:
           - highest
         include:
-          - os: macos-latest
-            python-version: "3.8"
-            uv-resolution: lowest-direct
           - os: windows-latest
             python-version: "3.9"
             uv-resolution: lowest-direct
