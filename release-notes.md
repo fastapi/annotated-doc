@@ -8,6 +8,11 @@
 
 ### Internal
 
+* 👷 Add `ty` to precommit. PR [#43](https://github.com/fastapi/annotated-doc/pull/43) by [@svlandeg](https://github.com/svlandeg).
+* ⬆ Bump actions/upload-artifact from 6 to 7. PR [#40](https://github.com/fastapi/annotated-doc/pull/40) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/download-artifact from 7 to 8. PR [#39](https://github.com/fastapi/annotated-doc/pull/39) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.14.14 to 0.15.4. PR [#41](https://github.com/fastapi/annotated-doc/pull/41) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump prek from 0.3.1 to 0.3.4. PR [#42](https://github.com/fastapi/annotated-doc/pull/42) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Run tests with lower bound uv sync. PR [#37](https://github.com/fastapi/annotated-doc/pull/37) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 👷 Run mypy by pre-commit. PR [#35](https://github.com/fastapi/annotated-doc/pull/35) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump ruff from 0.14.3 to 0.14.14. PR [#33](https://github.com/fastapi/annotated-doc/pull/33) by [@dependabot[bot]](https://github.com/apps/dependabot).
