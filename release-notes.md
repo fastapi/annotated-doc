@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump prek from 0.3.4 to 0.3.8. PR [#45](https://github.com/fastapi/annotated-doc/pull/45) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ty from 0.0.21 to 0.0.27. PR [#46](https://github.com/fastapi/annotated-doc/pull/46) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.15.4 to 0.15.8. PR [#47](https://github.com/fastapi/annotated-doc/pull/47) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add `ty` to precommit. PR [#43](https://github.com/fastapi/annotated-doc/pull/43) by [@svlandeg](https://github.com/svlandeg).
