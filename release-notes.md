@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump ruff from 0.15.4 to 0.15.8. PR [#47](https://github.com/fastapi/annotated-doc/pull/47) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add `ty` to precommit. PR [#43](https://github.com/fastapi/annotated-doc/pull/43) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump actions/upload-artifact from 6 to 7. PR [#40](https://github.com/fastapi/annotated-doc/pull/40) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 7 to 8. PR [#39](https://github.com/fastapi/annotated-doc/pull/39) by [@dependabot[bot]](https://github.com/apps/dependabot).
