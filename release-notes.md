@@ -32,7 +32,7 @@
 * ⬆ Bump actions/checkout from 5 to 6. PR [#20](https://github.com/fastapi/annotated-doc/pull/20) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#21](https://github.com/fastapi/annotated-doc/pull/21) by [@svlandeg](https://github.com/svlandeg).
 
-## 0.0.4
+## 0.0.4 (2025-11-10)
 
 ### Fixes
 
@@ -48,7 +48,7 @@
 * ⬆ Bump actions/upload-artifact from 4 to 5. PR [#14](https://github.com/fastapi/annotated-doc/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 5 to 6. PR [#13](https://github.com/fastapi/annotated-doc/pull/13) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
-## 0.0.3
+## 0.0.3 (2025-10-24)
 
 ### Docs
 
@@ -60,7 +60,7 @@
 
 * 🔧 Add PEP-639 license metadata. PR [#11](https://github.com/fastapi/annotated-doc/pull/11) by [@bollwyvl](https://github.com/bollwyvl).
 
-## 0.0.2
+## 0.0.2 (2025-10-22)
 
 ### Features
 
@@ -74,6 +74,6 @@
 * 🔧 Add configs for `.github`. PR [#1](https://github.com/fastapi/annotated-doc/pull/1) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update latest-changes config to point to `main` as the main branch. PR [#2](https://github.com/fastapi/annotated-doc/pull/2) by [@tiangolo](https://github.com/tiangolo).
 
-## 0.0.1
+## 0.0.1 (2023-12-11)
 
 Reserve PyPI package.
