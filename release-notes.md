@@ -8,6 +8,10 @@
 
 ### Internal
 
+* 🔨 Add pre-commit hook to ensure latest release header has date. PR [#38](https://github.com/fastapi/annotated-doc/pull/38) by [@YuriiMotov](https://github.com/YuriiMotov).
+* ⬆ Bump prek from 0.3.4 to 0.3.8. PR [#45](https://github.com/fastapi/annotated-doc/pull/45) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ty from 0.0.21 to 0.0.27. PR [#46](https://github.com/fastapi/annotated-doc/pull/46) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.15.4 to 0.15.8. PR [#47](https://github.com/fastapi/annotated-doc/pull/47) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add `ty` to precommit. PR [#43](https://github.com/fastapi/annotated-doc/pull/43) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump actions/upload-artifact from 6 to 7. PR [#40](https://github.com/fastapi/annotated-doc/pull/40) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 7 to 8. PR [#39](https://github.com/fastapi/annotated-doc/pull/39) by [@dependabot[bot]](https://github.com/apps/dependabot).
@@ -29,7 +33,7 @@
 * ⬆ Bump actions/checkout from 5 to 6. PR [#20](https://github.com/fastapi/annotated-doc/pull/20) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#21](https://github.com/fastapi/annotated-doc/pull/21) by [@svlandeg](https://github.com/svlandeg).
 
-## 0.0.4
+## 0.0.4 (2025-11-10)
 
 ### Fixes
 
@@ -45,7 +49,7 @@
 * ⬆ Bump actions/upload-artifact from 4 to 5. PR [#14](https://github.com/fastapi/annotated-doc/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 5 to 6. PR [#13](https://github.com/fastapi/annotated-doc/pull/13) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
-## 0.0.3
+## 0.0.3 (2025-10-24)
 
 ### Docs
 
@@ -57,7 +61,7 @@
 
 * 🔧 Add PEP-639 license metadata. PR [#11](https://github.com/fastapi/annotated-doc/pull/11) by [@bollwyvl](https://github.com/bollwyvl).
 
-## 0.0.2
+## 0.0.2 (2025-10-22)
 
 ### Features
 
@@ -71,6 +75,6 @@
 * 🔧 Add configs for `.github`. PR [#1](https://github.com/fastapi/annotated-doc/pull/1) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update latest-changes config to point to `main` as the main branch. PR [#2](https://github.com/fastapi/annotated-doc/pull/2) by [@tiangolo](https://github.com/tiangolo).
 
-## 0.0.1
+## 0.0.1 (2023-12-11)
 
 Reserve PyPI package.
