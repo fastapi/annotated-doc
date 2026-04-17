@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump actions/upload-artifact from 7.0.0 to 7.0.1. PR [#49](https://github.com/fastapi/annotated-doc/pull/49) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump astral-sh/setup-uv from 7.6.0 to 8.1.0. PR [#48](https://github.com/fastapi/annotated-doc/pull/48) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔒 Pin GitHub actions by commit SHA. PR [#44](https://github.com/fastapi/annotated-doc/pull/44) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 🔨 Add pre-commit hook to ensure latest release header has date. PR [#38](https://github.com/fastapi/annotated-doc/pull/38) by [@YuriiMotov](https://github.com/YuriiMotov).
