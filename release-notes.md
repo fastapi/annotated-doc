@@ -8,6 +8,8 @@
 
 ### Internal
 
+* ⬆ Bump prek from 0.3.8 to 0.3.11. PR [#53](https://github.com/fastapi/annotated-doc/pull/53) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ty from 0.0.27 to 0.0.33. PR [#52](https://github.com/fastapi/annotated-doc/pull/52) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/upload-artifact from 7.0.0 to 7.0.1. PR [#49](https://github.com/fastapi/annotated-doc/pull/49) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump astral-sh/setup-uv from 7.6.0 to 8.1.0. PR [#48](https://github.com/fastapi/annotated-doc/pull/48) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔒 Pin GitHub actions by commit SHA. PR [#44](https://github.com/fastapi/annotated-doc/pull/44) by [@YuriiMotov](https://github.com/YuriiMotov).
