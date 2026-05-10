@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump actions/labeler from 6.0.1 to 6.1.0. PR [#55](https://github.com/fastapi/annotated-doc/pull/55) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.15.8 to 0.15.12. PR [#51](https://github.com/fastapi/annotated-doc/pull/51) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump prek from 0.3.8 to 0.3.11. PR [#53](https://github.com/fastapi/annotated-doc/pull/53) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ty from 0.0.27 to 0.0.33. PR [#52](https://github.com/fastapi/annotated-doc/pull/52) by [@dependabot[bot]](https://github.com/apps/dependabot).
