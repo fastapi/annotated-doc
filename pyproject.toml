@@ -118,3 +118,6 @@ source-includes = [
     "tests/",
     "scripts/",
 ]
+
+[tool.ty.terminal]
+error-on-warning = true
