@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆️ Bump the lower bound of `ty` to 0.0.25. PR [#57](https://github.com/fastapi/annotated-doc/pull/57) by [@svlandeg](https://github.com/svlandeg).
 * 👷 Configure `ty` to exit with error code on warnings. PR [#56](https://github.com/fastapi/annotated-doc/pull/56) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump actions/add-to-project from 1.0.2 to 2.0.0. PR [#54](https://github.com/fastapi/annotated-doc/pull/54) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/labeler from 6.0.1 to 6.1.0. PR [#55](https://github.com/fastapi/annotated-doc/pull/55) by [@dependabot[bot]](https://github.com/apps/dependabot).
