@@ -48,9 +48,9 @@ tests = [
     "coverage[toml]>=7.6.1",
     "mypy==1.14.1",
     "pytest>=8.3.5",
-    "ruff==0.15.8",
+    "ruff==0.15.12",
     "smokeshow>=0.5.0",
-    "ty>=0.0.9",
+    "ty>=0.0.25",
 ]
 
 [build-system]
@@ -116,3 +116,6 @@ source-includes = [
     "tests/",
     "scripts/",
 ]
+
+[tool.ty.terminal]
+error-on-warning = true

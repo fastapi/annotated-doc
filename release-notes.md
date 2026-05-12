@@ -8,6 +8,17 @@
 
 ### Internal
 
+* ⬆️ Bump the lower bound of `ty` to 0.0.25. PR [#57](https://github.com/fastapi/annotated-doc/pull/57) by [@svlandeg](https://github.com/svlandeg).
+* 👷 Configure `ty` to exit with error code on warnings. PR [#56](https://github.com/fastapi/annotated-doc/pull/56) by [@svlandeg](https://github.com/svlandeg).
+* ⬆ Bump actions/add-to-project from 1.0.2 to 2.0.0. PR [#54](https://github.com/fastapi/annotated-doc/pull/54) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/labeler from 6.0.1 to 6.1.0. PR [#55](https://github.com/fastapi/annotated-doc/pull/55) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ruff from 0.15.8 to 0.15.12. PR [#51](https://github.com/fastapi/annotated-doc/pull/51) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump prek from 0.3.8 to 0.3.11. PR [#53](https://github.com/fastapi/annotated-doc/pull/53) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump ty from 0.0.27 to 0.0.33. PR [#52](https://github.com/fastapi/annotated-doc/pull/52) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump actions/upload-artifact from 7.0.0 to 7.0.1. PR [#49](https://github.com/fastapi/annotated-doc/pull/49) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump astral-sh/setup-uv from 7.6.0 to 8.1.0. PR [#48](https://github.com/fastapi/annotated-doc/pull/48) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 🔒 Pin GitHub actions by commit SHA. PR [#44](https://github.com/fastapi/annotated-doc/pull/44) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 🔨 Add pre-commit hook to ensure latest release header has date. PR [#38](https://github.com/fastapi/annotated-doc/pull/38) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump prek from 0.3.4 to 0.3.8. PR [#45](https://github.com/fastapi/annotated-doc/pull/45) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ty from 0.0.21 to 0.0.27. PR [#46](https://github.com/fastapi/annotated-doc/pull/46) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.15.4 to 0.15.8. PR [#47](https://github.com/fastapi/annotated-doc/pull/47) by [@dependabot[bot]](https://github.com/apps/dependabot).
@@ -32,7 +43,7 @@
 * ⬆ Bump actions/checkout from 5 to 6. PR [#20](https://github.com/fastapi/annotated-doc/pull/20) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#21](https://github.com/fastapi/annotated-doc/pull/21) by [@svlandeg](https://github.com/svlandeg).
 
-## 0.0.4
+## 0.0.4 (2025-11-10)
 
 ### Fixes
 
@@ -48,7 +59,7 @@
 * ⬆ Bump actions/upload-artifact from 4 to 5. PR [#14](https://github.com/fastapi/annotated-doc/pull/14) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/download-artifact from 5 to 6. PR [#13](https://github.com/fastapi/annotated-doc/pull/13) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
-## 0.0.3
+## 0.0.3 (2025-10-24)
 
 ### Docs
 
@@ -60,7 +71,7 @@
 
 * 🔧 Add PEP-639 license metadata. PR [#11](https://github.com/fastapi/annotated-doc/pull/11) by [@bollwyvl](https://github.com/bollwyvl).
 
-## 0.0.2
+## 0.0.2 (2025-10-22)
 
 ### Features
 
@@ -74,6 +85,6 @@
 * 🔧 Add configs for `.github`. PR [#1](https://github.com/fastapi/annotated-doc/pull/1) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update latest-changes config to point to `main` as the main branch. PR [#2](https://github.com/fastapi/annotated-doc/pull/2) by [@tiangolo](https://github.com/tiangolo).
 
-## 0.0.1
+## 0.0.1 (2023-12-11)
 
 Reserve PyPI package.
