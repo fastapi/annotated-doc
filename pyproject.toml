@@ -44,6 +44,7 @@ Changelog = "https://github.com/fastapi/annotated-doc/release-notes.md"
 dev = [
     { include-group = "tests" },
     "prek>=0.2.24,<1.0.0",
+    "zizmor>=1.2.0",
 ]
 tests = [
     "coverage[toml]>=7.6.1",
