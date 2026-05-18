@@ -8,6 +8,7 @@
 
 ### Internal
 
+* ⬆ Bump prek from 0.3.11 to 0.3.13. PR [#59](https://github.com/fastapi/annotated-doc/pull/59) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔒️ Add zizmor and fix audit findings. PR [#50](https://github.com/fastapi/annotated-doc/pull/50) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆️ Bump the lower bound of `ty` to 0.0.25. PR [#57](https://github.com/fastapi/annotated-doc/pull/57) by [@svlandeg](https://github.com/svlandeg).
 * 👷 Configure `ty` to exit with error code on warnings. PR [#56](https://github.com/fastapi/annotated-doc/pull/56) by [@svlandeg](https://github.com/svlandeg).
