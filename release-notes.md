@@ -8,6 +8,11 @@
 
 ### Internal
 
+* 👷 Fix branch name in `guard-dependencies.yml`. PR [#61](https://github.com/fastapi/annotated-doc/pull/61) by [@svlandeg](https://github.com/svlandeg).
+* 🔒️ Only allow team members to modify dependencies. PR [#60](https://github.com/fastapi/annotated-doc/pull/60) by [@svlandeg](https://github.com/svlandeg).
+* ⬆ Bump ty from 0.0.33 to 0.0.34. PR [#58](https://github.com/fastapi/annotated-doc/pull/58) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump prek from 0.3.11 to 0.3.13. PR [#59](https://github.com/fastapi/annotated-doc/pull/59) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 🔒️ Add zizmor and fix audit findings. PR [#50](https://github.com/fastapi/annotated-doc/pull/50) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆️ Bump the lower bound of `ty` to 0.0.25. PR [#57](https://github.com/fastapi/annotated-doc/pull/57) by [@svlandeg](https://github.com/svlandeg).
 * 👷 Configure `ty` to exit with error code on warnings. PR [#56](https://github.com/fastapi/annotated-doc/pull/56) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump actions/add-to-project from 1.0.2 to 2.0.0. PR [#54](https://github.com/fastapi/annotated-doc/pull/54) by [@dependabot[bot]](https://github.com/apps/dependabot).
