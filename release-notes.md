@@ -6,6 +6,10 @@
 
 * ⬆ Bump ruff from 0.14.3 to 0.14.10. PR [#31](https://github.com/fastapi/annotated-doc/pull/31) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
+### Docs
+
+* 📝 Update security policy. PR [#63](https://github.com/fastapi/annotated-doc/pull/63) by [@tiangolo](https://github.com/tiangolo).
+
 ### Internal
 
 * 👷 Fix branch name in `guard-dependencies.yml`. PR [#61](https://github.com/fastapi/annotated-doc/pull/61) by [@svlandeg](https://github.com/svlandeg).
