@@ -12,6 +12,7 @@
 
 ### Internal
 
+* 🔥 Remove config files now in central GitHub repo. PR [#65](https://github.com/fastapi/annotated-doc/pull/65) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix branch name in `guard-dependencies.yml`. PR [#61](https://github.com/fastapi/annotated-doc/pull/61) by [@svlandeg](https://github.com/svlandeg).
 * 🔒️ Only allow team members to modify dependencies. PR [#60](https://github.com/fastapi/annotated-doc/pull/60) by [@svlandeg](https://github.com/svlandeg).
 * ⬆ Bump ty from 0.0.33 to 0.0.34. PR [#58](https://github.com/fastapi/annotated-doc/pull/58) by [@dependabot[bot]](https://github.com/apps/dependabot).
