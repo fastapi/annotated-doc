@@ -12,6 +12,7 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group with 2 updates. PR [#71](https://github.com/fastapi/annotated-doc/pull/71) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Automate release preparation. PR [#69](https://github.com/fastapi/annotated-doc/pull/69) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Configure Dependabot to group updates and update weekly. PR [#62](https://github.com/fastapi/annotated-doc/pull/62) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 🔥 Remove config files now in central GitHub repo. PR [#65](https://github.com/fastapi/annotated-doc/pull/65) by [@tiangolo](https://github.com/tiangolo).
