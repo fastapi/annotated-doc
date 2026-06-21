@@ -12,6 +12,7 @@
 
 ### Internal
 
+* 🔒️ Update zizmor workflow security checks. PR [#75](https://github.com/fastapi/annotated-doc/pull/75) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix alls-green test dependency. PR [#74](https://github.com/fastapi/annotated-doc/pull/74) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add pre-commit hook to catch typos. PR [#68](https://github.com/fastapi/annotated-doc/pull/68) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆ Bump the python-packages group with 3 updates. PR [#70](https://github.com/fastapi/annotated-doc/pull/70) by [@dependabot[bot]](https://github.com/apps/dependabot).
