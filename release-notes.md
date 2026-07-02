@@ -12,6 +12,7 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#80](https://github.com/fastapi/annotated-doc/pull/80) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump https://github.com/crate-ci/typos from v1.46.0 to 1.47.2 in the pre-commit group across 1 directory. PR [#76](https://github.com/fastapi/annotated-doc/pull/76) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Simplify pull request workflow triggers. PR [#79](https://github.com/fastapi/annotated-doc/pull/79) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update issue-manager to 0.7.1. PR [#78](https://github.com/fastapi/annotated-doc/pull/78) by [@tiangolo](https://github.com/tiangolo).
