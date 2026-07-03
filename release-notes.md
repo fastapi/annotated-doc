@@ -12,6 +12,7 @@
 
 ### Internal
 
+* ⬆️ Update issue-manager to 0.8.1. PR [#84](https://github.com/fastapi/annotated-doc/pull/84) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#83](https://github.com/fastapi/annotated-doc/pull/83) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the python-packages group across 1 directory with 3 updates. PR [#72](https://github.com/fastapi/annotated-doc/pull/72) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#80](https://github.com/fastapi/annotated-doc/pull/80) by [@dependabot[bot]](https://github.com/apps/dependabot).
