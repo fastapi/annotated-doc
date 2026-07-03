@@ -12,6 +12,7 @@
 
 ### Internal
 
+* ⬆️ Update latest-changes to 0.6.1. PR [#83](https://github.com/fastapi/annotated-doc/pull/83) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the python-packages group across 1 directory with 3 updates. PR [#72](https://github.com/fastapi/annotated-doc/pull/72) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#80](https://github.com/fastapi/annotated-doc/pull/80) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump https://github.com/crate-ci/typos from v1.46.0 to 1.47.2 in the pre-commit group across 1 directory. PR [#76](https://github.com/fastapi/annotated-doc/pull/76) by [@dependabot[bot]](https://github.com/apps/dependabot).
