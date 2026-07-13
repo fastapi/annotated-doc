@@ -12,6 +12,7 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#91](https://github.com/fastapi/annotated-doc/pull/91) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump the python-packages group across 1 directory with 3 updates. PR [#90](https://github.com/fastapi/annotated-doc/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump pre-commit hooks. PR [#89](https://github.com/fastapi/annotated-doc/pull/89) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GH workflow to bump pre-commit hook versions. PR [#81](https://github.com/fastapi/annotated-doc/pull/81) by [@YuriiMotov](https://github.com/YuriiMotov).
