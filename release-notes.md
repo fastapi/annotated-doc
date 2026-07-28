@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Breaking Changes
+
+* ➖ Drop support for Python 3.8. PR [#36](https://github.com/fastapi/annotated-doc/pull/36) by [@svlandeg](https://github.com/svlandeg).
+
 ### Upgrades
 
 * ⬆ Bump ruff from 0.14.3 to 0.14.10. PR [#31](https://github.com/fastapi/annotated-doc/pull/31) by [@dependabot[bot]](https://github.com/apps/dependabot).
