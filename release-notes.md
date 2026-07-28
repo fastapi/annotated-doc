@@ -12,6 +12,26 @@
 
 ### Internal
 
+* ⬆️ Upgrade latest-changes to 0.7.1. PR [#92](https://github.com/fastapi/annotated-doc/pull/92) by [@tiangolo](https://github.com/tiangolo).
+* ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#91](https://github.com/fastapi/annotated-doc/pull/91) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the python-packages group across 1 directory with 3 updates. PR [#90](https://github.com/fastapi/annotated-doc/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump pre-commit hooks. PR [#89](https://github.com/fastapi/annotated-doc/pull/89) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Add GH workflow to bump pre-commit hook versions. PR [#81](https://github.com/fastapi/annotated-doc/pull/81) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 🔧 Set Dependabot schedule interval to "monthly". PR [#82](https://github.com/fastapi/annotated-doc/pull/82) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 👷 Fix latest-changes checkout target. PR [#85](https://github.com/fastapi/annotated-doc/pull/85) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Update issue-manager to 0.8.1. PR [#84](https://github.com/fastapi/annotated-doc/pull/84) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Update latest-changes to 0.6.1. PR [#83](https://github.com/fastapi/annotated-doc/pull/83) by [@tiangolo](https://github.com/tiangolo).
+* ⬆ Bump the python-packages group across 1 directory with 3 updates. PR [#72](https://github.com/fastapi/annotated-doc/pull/72) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#80](https://github.com/fastapi/annotated-doc/pull/80) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump https://github.com/crate-ci/typos from v1.46.0 to 1.47.2 in the pre-commit group across 1 directory. PR [#76](https://github.com/fastapi/annotated-doc/pull/76) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 👷 Simplify pull request workflow triggers. PR [#79](https://github.com/fastapi/annotated-doc/pull/79) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Update issue-manager to 0.7.1. PR [#78](https://github.com/fastapi/annotated-doc/pull/78) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Update issue-manager to 0.7.0. PR [#77](https://github.com/fastapi/annotated-doc/pull/77) by [@tiangolo](https://github.com/tiangolo).
+* 🔒️ Update zizmor workflow security checks. PR [#75](https://github.com/fastapi/annotated-doc/pull/75) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Fix alls-green test dependency. PR [#74](https://github.com/fastapi/annotated-doc/pull/74) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Add pre-commit hook to catch typos. PR [#68](https://github.com/fastapi/annotated-doc/pull/68) by [@YuriiMotov](https://github.com/YuriiMotov).
+* ⬆ Bump the python-packages group with 3 updates. PR [#70](https://github.com/fastapi/annotated-doc/pull/70) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump the github-actions group with 2 updates. PR [#71](https://github.com/fastapi/annotated-doc/pull/71) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Automate release preparation. PR [#69](https://github.com/fastapi/annotated-doc/pull/69) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Configure Dependabot to group updates and update weekly. PR [#62](https://github.com/fastapi/annotated-doc/pull/62) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 🔥 Remove config files now in central GitHub repo. PR [#65](https://github.com/fastapi/annotated-doc/pull/65) by [@tiangolo](https://github.com/tiangolo).

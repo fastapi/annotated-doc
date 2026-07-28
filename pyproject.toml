@@ -49,7 +49,7 @@ tests = [
     "coverage[toml]>=7.6.1",
     "mypy==1.14.1",
     "pytest>=8.3.5",
-    "ruff==0.15.13",
+    "ruff>=0.15.14",
     "smokeshow>=0.5.0",
     "ty>=0.0.25",
     "typer>=0.16.1",
@@ -121,3 +121,19 @@ source-includes = [
 
 [tool.ty.terminal]
 error-on-warning = true
+
+[tool.typos.files]
+extend-exclude = [
+    "uv.lock",
+    "coverage/",
+    "htmlcov/",
+]
+
+[tool.typos.default]
+extend-ignore-re = [
+    # GitHub usernames in @mentions
+    "@[a-zA-Z0-9](?:-?[a-zA-Z0-9])*",
+]
+
+[tool.typos.default.extend-identifiers]
+alls = "alls"

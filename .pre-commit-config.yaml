@@ -11,6 +11,11 @@ repos:
         -   --unsafe
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
+-   repo: https://github.com/crate-ci/typos
+    rev: bee27e3a4fd1ea2111cf90ab89cd076c870fce14 # frozen: v1.48.0
+    hooks:
+    -   id: typos
+        args: [--force-exclude]
 -   repo: local
     hooks:
       - id: local-ruff-check
