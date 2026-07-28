@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+## 0.0.5 (2026-07-28)
+
 ### Breaking Changes
 
 * ➖ Drop support for Python 3.8. PR [#36](https://github.com/fastapi/annotated-doc/pull/36) by [@svlandeg](https://github.com/svlandeg).
