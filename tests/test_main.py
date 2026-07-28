@@ -1,12 +1,7 @@
 import pickle
-import sys
+from typing import Annotated, get_type_hints
 
 from annotated_doc import Doc
-
-if sys.version_info >= (3, 9):
-    from typing import Annotated, get_type_hints
-else:
-    from typing_extensions import Annotated, get_type_hints
 
 
 def test_doc_basic() -> None:
