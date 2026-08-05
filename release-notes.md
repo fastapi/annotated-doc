@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Internal
+
+* ⬆ Bump the python-packages group with 3 updates. PR [#94](https://github.com/fastapi/annotated-doc/pull/94) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 ## 0.0.5 (2026-07-28)
 
 ### Breaking Changes
