@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 🔒 Replace pre-commit PAT with PR Push. PR [#97](https://github.com/fastapi/annotated-doc/pull/97) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove the old Latest Changes workflow. PR [#96](https://github.com/fastapi/annotated-doc/pull/96) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the github-actions group with 5 updates. PR [#95](https://github.com/fastapi/annotated-doc/pull/95) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump the python-packages group with 3 updates. PR [#94](https://github.com/fastapi/annotated-doc/pull/94) by [@dependabot[bot]](https://github.com/apps/dependabot).
