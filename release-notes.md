@@ -4,6 +4,7 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group with 3 updates. PR [#105](https://github.com/fastapi/annotated-doc/pull/105) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump pre-commit hooks. PR [#107](https://github.com/fastapi/annotated-doc/pull/107) by [@pr-submit[bot]](https://github.com/apps/pr-submit).
 * ⬆ Bump the python-packages group with 3 updates. PR [#106](https://github.com/fastapi/annotated-doc/pull/106) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump setup-uv action to 10.0.1. PR [#104](https://github.com/fastapi/annotated-doc/pull/104) by [@YuriiMotov](https://github.com/YuriiMotov).
