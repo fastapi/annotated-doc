@@ -4,6 +4,7 @@
 
 ### Internal
 
+* ⬆ Bump the python-packages group with 3 updates. PR [#108](https://github.com/fastapi/annotated-doc/pull/108) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump the github-actions group with 2 updates. PR [#109](https://github.com/fastapi/annotated-doc/pull/109) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump pre-commit hooks. PR [#110](https://github.com/fastapi/annotated-doc/pull/110) by [@pr-submit[bot]](https://github.com/apps/pr-submit).
 * ⬆ Bump the github-actions group with 3 updates. PR [#105](https://github.com/fastapi/annotated-doc/pull/105) by [@dependabot[bot]](https://github.com/apps/dependabot).
