@@ -38,6 +38,7 @@ from typing import Annotated
 
 from annotated_doc import Doc
 
+
 def hi(name: Annotated[str, Doc("Who to say hi to")]) -> None:
     print(f"Hi, {name}!")
 ```
@@ -48,6 +49,7 @@ You can also use it to document class attributes:
 from typing import Annotated
 
 from annotated_doc import Doc
+
 
 class User:
     name: Annotated[str, Doc("The user's name")]
