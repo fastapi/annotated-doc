@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Docs
+
+* 🎨 Enable Ruff formatting for Python in Markdown. PR [#111](https://github.com/fastapi/annotated-doc/pull/111) by [@tiangolo](https://github.com/tiangolo).
+
 ### Internal
 
 * ⬆ Bump the python-packages group with 3 updates. PR [#108](https://github.com/fastapi/annotated-doc/pull/108) by [@dependabot[bot]](https://github.com/apps/dependabot).
