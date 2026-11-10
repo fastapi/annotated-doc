@@ -34,7 +34,7 @@ jobs:
           - highest
         include:
           - os: windows-latest
-            python-version: "3.9"
+            python-version: "3.10"
             uv-resolution: lowest-direct
           - os: ubuntu-latest
             python-version: "3.10"
