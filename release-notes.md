@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+## 0.0.6 (2026-11-10)
+
 ### Breaking Changes
 
 * 🔥 Drop support for Python 3.9. PR [#116](https://github.com/fastapi/annotated-doc/pull/116) by [@tiangolo](https://github.com/tiangolo).
