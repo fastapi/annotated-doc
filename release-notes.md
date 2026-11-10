@@ -6,6 +6,10 @@
 
 * 🔥 Drop support for Python 3.9. PR [#116](https://github.com/fastapi/annotated-doc/pull/116) by [@tiangolo](https://github.com/tiangolo).
 
+### Upgrades
+
+* ⬆️ Add support for Python 3.15 and 3.15t. PR [#115](https://github.com/fastapi/annotated-doc/pull/115) by [@tiangolo](https://github.com/tiangolo).
+
 ### Docs
 
 * 🎨 Enable Ruff formatting for Python in Markdown. PR [#111](https://github.com/fastapi/annotated-doc/pull/111) by [@tiangolo](https://github.com/tiangolo).
