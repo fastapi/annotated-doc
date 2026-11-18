@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 💥 Drop support for Python 3.10. PR [#121](https://github.com/fastapi/annotated-doc/pull/121) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Limit the full test matrix to Python 3.15. PR [#118](https://github.com/fastapi/annotated-doc/pull/118) by [@tiangolo](https://github.com/tiangolo).
 
 ## 0.0.6 (2026-11-10)
