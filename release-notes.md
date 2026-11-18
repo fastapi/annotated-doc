@@ -2,6 +2,8 @@
 
 ## Latest Changes
 
+## 0.0.7 (2026-11-18)
+
 ### Internal
 
 * 💥 Drop support for Python 3.10. PR [#121](https://github.com/fastapi/annotated-doc/pull/121) by [@tiangolo](https://github.com/tiangolo).
