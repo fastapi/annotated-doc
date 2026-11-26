@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Internal
+
+* ⬆ Bump Python version in `.python-version` to 3.11. PR [#120](https://github.com/fastapi/annotated-doc/pull/120) by [@YuriiMotov](https://github.com/YuriiMotov).
+
 ## 0.0.7 (2026-11-18)
 
 ### Internal
