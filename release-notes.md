@@ -4,6 +4,13 @@
 
 ### Internal
 
+* ⬆ Bump Python version in `.python-version` to 3.11. PR [#120](https://github.com/fastapi/annotated-doc/pull/120) by [@YuriiMotov](https://github.com/YuriiMotov).
+
+## 0.0.7 (2026-11-18)
+
+### Internal
+
+* 💥 Drop support for Python 3.10. PR [#121](https://github.com/fastapi/annotated-doc/pull/121) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Limit the full test matrix to Python 3.15. PR [#118](https://github.com/fastapi/annotated-doc/pull/118) by [@tiangolo](https://github.com/tiangolo).
 
 ## 0.0.6 (2026-11-10)
